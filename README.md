@@ -51,11 +51,3 @@ THEN that will be shown on the page, and added to their transaction history when
 
 * We would like you to have well over 200 commits by graduation, so commit early and often!
 
-## Submission on BCS
-
-* You are required to submit the following:
-
-  * the URL to the deployed application
-
-  * the URL to the Github repository
-
